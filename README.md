@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @VladC92
-- 👀 I’m interested in working as a C# or Java developer
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me : chira_vlad2005@yahoo.com
